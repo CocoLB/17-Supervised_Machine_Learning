@@ -6,7 +6,7 @@ We've been tasked with building and evaluating different machine learning models
 
 ## Resources
 - Python 3.7, Numpy 1.11+, Scipy 0.17+, Scikit-learn 0.21+
-- LoanStats_2019Q1.csv (data from LendingClub)
+- LoanStats_2019Q1.csv (data from LendingClub) (zipped in Github)
 
 ## Challenge Summary
 In both Notebooks we follow the same steps to preprocess the data:
